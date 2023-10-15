@@ -1,0 +1,32 @@
+# Carpeta SRC - Jupyter Notebook de Análisis
+
+Esta carpeta contiene un Jupyter Notebook utilizado para realizar un análisis de sentimientos basado en el libro "Tormenta de Espadas."
+
+## Contenido
+
+- **Jupyter Notebook - Análisis de Sentimientos:** El archivo "analisis_sentimientos.ipynb" es el núcleo del análisis exploratorio de sentimientos.
+
+## Uso
+
+Puedes utilizar el archivo de Jupyter Notebook en esta carpeta para:
+
+- Replicar el análisis de sentimientos en tu propio entorno.
+- Aprender y comprender la metodología y procesos utilizados en el análisis.
+
+## Instrucciones
+
+Para ejecutar el análisis de sentimientos en el Jupyter Notebook, sigue estos pasos:
+
+1. Asegúrate de tener un entorno de Python adecuado con las bibliotecas requeridas instaladas.
+
+2. Abre el archivo "analisis_sentimientos.ipynb" en un entorno Jupyter Notebook.
+
+3. Ejecuta las celdas del Notebook en orden para reproducir el análisis y generar resultados.
+
+## Contribuciones
+
+Si deseas contribuir o mejorar el análisis de sentimientos, siéntete libre de modificar el Jupyter Notebook. Puedes hacer una solicitud de extracción o ponerte en contacto con el propietario del repositorio para más detalles.
+
+## Contacto
+
+Si tienes alguna pregunta o necesitas más información sobre el análisis de sentimientos o el Jupyter Notebook, no dudes en ponerte en contacto con [tu nombre o nombre de usuario] en [tu dirección de correo electrónico o medio de contacto].
