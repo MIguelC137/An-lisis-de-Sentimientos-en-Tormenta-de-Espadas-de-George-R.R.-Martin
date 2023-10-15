@@ -1,0 +1,41 @@
+# Carpeta de Resultados - Análisis Exploratorio
+
+En esta carpeta, encontrarás dos imágenes gráficas que presentan resultados clave del análisis exploratorio de sentimientos basado en el libro "Tormenta de Espadas." Estas visualizaciones ofrecen información sobre el cambio de sentimientos a lo largo del libro y los resultados del análisis exploratorio por página.
+
+## Contenido
+
+- **Gráfico de Sentimientos a lo largo del Tiempo:** Este gráfico muestra cómo cambian los sentimientos a medida que avanza el libro, utilizando las páginas del libro como indicador de tiempo.
+
+- **Resultados del Análisis Exploratorio de Sentimientos por Página:** Este gráfico muestra los resultados del análisis de sentimientos para cada página del libro y proporciona información detallada sobre las tendencias en los sentimientos a lo largo de la obra.
+
+## Visualizaciones
+
+A continuación, se muestra una vista previa de las dos imágenes gráficas incluidas en esta carpeta:
+
+**Gráfico de Sentimientos a lo largo del Tiempo:**
+
+![Gráfico de Sentimientos a lo largo del Tiempo](results/grafico_sentimientos.png)
+
+_Descripción opcional del Gráfico de Sentimientos a lo largo del Tiempo._
+
+**Resultados del Análisis Exploratorio de Sentimientos por Página:**
+
+![Resultados del Análisis Exploratorio de Sentimientos por Página](results/analisis_sentimientos.png)
+
+_Descripción opcional de los Resultados del Análisis Exploratorio de Sentimientos por Página._
+
+## Uso
+
+Puedes utilizar estas visualizaciones para:
+
+- Comprender cómo evolucionan los sentimientos a medida que avanza el libro.
+- Analizar las tendencias y patrones en los sentimientos por página.
+- Facilitar la comunicación de resultados y conclusiones del análisis de sentimientos.
+
+## Contribuciones
+
+Si tienes visualizaciones adicionales o mejoras para las existentes, siéntete libre de contribuir a esta colección. Puedes hacer una solicitud de extracción o ponerte en contacto con el propietario del repositorio para más detalles.
+
+## Contacto
+
+Si tienes alguna pregunta o necesitas más información sobre las visualizaciones o el análisis exploratorio de sentimientos, no dudes en ponerte en contacto con [tu nombre o nombre de usuario] en [tu dirección de correo electrónico o medio de contacto].
